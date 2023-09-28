@@ -1,6 +1,6 @@
  👋hi I'm Aditya srivastava@adikr-ai- 
 - 👀 I’m interested in data science web development ..
-- 🌱 I’m currently learning c++,have knoweledge about python,working on freelancing stuff ( beginner)..
+- 🌱 I’m currently learning c++,have knowledge about python,working on freelancing stuff ( beginner)..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
