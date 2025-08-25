@@ -1,7 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif)
+
+
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adikr-ai&label=Profile%20views&color=0e75b6&style=flat" alt="adikr-ai" /> </p>
 
@@ -9,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN STACK , DSA**
 
-- 💬 Ask me about **React js , Javascript , Mongodb, Express js , Node js**
+- 💬 Ask me about **DSA ,React js , Javascript , Mongodb, Express js , Node js**
 
 - 📫 How to reach me **adityakr6846@gmail.com**
 
@@ -18,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aditya798013856" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya798013856" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/aditya-srivastava-757137294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aditya-srivastava-757137294" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-srivastava-757137294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-srivastava-757137294" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adikr-ai&show_icons=true&locale=en&layout=compact" alt="adikr-ai" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adikr-ai&show_icons=true&locale=en" alt="adikr-ai" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adikr-ai&" alt="adikr-ai" /></p>
 
 
 
